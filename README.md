@@ -1,4 +1,3 @@
-#encoding = 'utf-8'
 - 👋 Hi, I’m @chainsaw6409
 - 👀 基本上啥也不会，但是啥都想学
 - 🌱 现在正在学python, R, ArcGIS,LATEX,但是都不怎么会用
