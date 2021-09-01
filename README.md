@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chainsaw6409
 - 👀 基本上啥也不会，但是啥都想学
 - 🌱 现在正在学python, R, ArcGIS,LATEX,但是都不怎么会用
-- 💞️ I’m looking for a mentor
+- 💞️ I’m looking for a soul mate
 - 📫 qmcmer@outlook.com
 
 <!---
